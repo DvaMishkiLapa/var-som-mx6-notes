@@ -51,23 +51,23 @@
 
 #### 4.1 Официальные источники Variscite
 
-- [4.1 Стартовый мануал](https://variwiki.com/index.php?title=VAR-SOM-MX6_Start_Here);
-- [4.2 Unit Testing (некоторая информация по конфигурациям)](https://variwiki.com/index.php?title=VAR-SOM-MX6_Yocto_Unit_Testing_V9);
-- [4.3 Хаб прошивок](https://variwiki.com/index.php?title=VAR-SOM-MX6);
-- [4.4 Мануал по сборке Yocto Thud с ядром 4.14.78](https://variwiki.com/index.php?title=Yocto_Build_Release&release=RELEASE_THUD_V1.0_VAR-SOM-MX6);
-- [4.5 Мануал по сборке Debian 9 Stretch R02 с ядром 4.9.88](https://variwiki.com/index.php?title=Debian_Build_Release&release=RELEASE_STRETCH_V2.0_VAR-SOM-MX6);
-- [4.7 Изменение лого загрузки](https://variwiki.com/index.php?title=Yocto_Linux_logo);
-- [4.8 Интеграция Docker в Yocto Thud с ядром 4.14.78](https://variwiki.com/index.php?title=Docker_Guide&release=RELEASE_THUD_V1.0_VAR-SOM-MX6);
-- [4.10 FTP-сервер Variscite с некоторой документацией и сборками ОС](ftp://customerv@ftp.variscite.com/VAR-SOM-MX6/);
-- [4.11 Репозиторий Variscite на GitHub](https://github.com/varigit);
-- [4.9 Репозиторий Yocto Dunfell v1.0 release for VAR-SOM-MX6 на GitHub](https://github.com/varigit/variscite-bsp-platform/releases/tag/dunfell-fslc-4.4-2.1.x-mx6-v1.0);
-- [4.12 Variscite Debian with Linux release](https://variwiki.com/index.php?title=Debian_Build_Release&release=RELEASE_STRETCH#VAR-SOM-MX6).
+- [Стартовый мануал](https://variwiki.com/index.php?title=VAR-SOM-MX6_Start_Here);
+- [Unit Testing (некоторая информация по конфигурациям)](https://variwiki.com/index.php?title=VAR-SOM-MX6_Yocto_Unit_Testing_V9);
+- [Хаб прошивок](https://variwiki.com/index.php?title=VAR-SOM-MX6);
+- [Мануал по сборке Yocto Thud с ядром 4.14.78](https://variwiki.com/index.php?title=Yocto_Build_Release&release=RELEASE_THUD_V1.0_VAR-SOM-MX6);
+- [Мануал по сборке Debian 9 Stretch R02 с ядром 4.9.88](https://variwiki.com/index.php?title=Debian_Build_Release&release=RELEASE_STRETCH_V2.0_VAR-SOM-MX6);
+- [Изменение лого загрузки](https://variwiki.com/index.php?title=Yocto_Linux_logo);
+- [Интеграция Docker в Yocto Thud с ядром 4.14.78](https://variwiki.com/index.php?title=Docker_Guide&release=RELEASE_THUD_V1.0_VAR-SOM-MX6);
+- FTP-сервер Variscite с некоторой документацией и сборками ОС: `ftp://customerv@ftp.variscite.com/VAR-SOM-MX6/`;
+- [Репозиторий Variscite на GitHub](https://github.com/varigit);
+- [Репозиторий Yocto Dunfell v1.0 release for VAR-SOM-MX6 на GitHub](https://github.com/varigit/variscite-bsp-platform/releases/tag/dunfell-fslc-4.4-2.1.x-mx6-v1.0);
+- [Variscite Debian with Linux release](https://variwiki.com/index.php?title=Debian_Build_Release&release=RELEASE_STRETCH#VAR-SOM-MX6).
 
 #### 4.2 Внешние материалы
 
-- [4.6 Добавление работы UART port (USB to UART support)](https://www.imx6rex.com/software/imx6-rex-basic-hw-verification-tests/#usb_to_uart);
-- [4.13 Ubuntu Bionic 18.04.3 LTS для плат i.MX6 с ускорением графического процессора etnaviv - январь 2020 г. (основное ядро ​​5.4.6) (Boundary Devices)](https://boundarydevices.com/ubuntu-bionic-18-04-3-lts-for-i-mx6-7-boards-with-etnaviv-gpu-acceleration-january-2020-mainline-kernel-5-4-6/);
-- [4.14 U-Boot 2020.10 для платформ i.MX (Boundary Devices)](https://boundarydevices.com/u-boot-2020-10-for-i-mx-platforms/).
+- [Добавление работы UART port (USB to UART support)](https://www.imx6rex.com/software/imx6-rex-basic-hw-verification-tests/#usb_to_uart);
+- [Ubuntu Bionic 18.04.3 LTS для плат i.MX6 с ускорением графического процессора etnaviv - январь 2020 г. (основное ядро ​​5.4.6) (Boundary Devices)](https://boundarydevices.com/ubuntu-bionic-18-04-3-lts-for-i-mx6-7-boards-with-etnaviv-gpu-acceleration-january-2020-mainline-kernel-5-4-6/);
+- [U-Boot 2020.10 для платформ i.MX (Boundary Devices)](https://boundarydevices.com/u-boot-2020-10-for-i-mx-platforms/).
 
 ### 5. Заметки по [`var-som-mx6`](https://www.variscite.com/product/system-on-module-som/cortex-a9/var-som-mx6-cpu-freescale-imx6/)
 
