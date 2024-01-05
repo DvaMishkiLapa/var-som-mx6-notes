@@ -209,7 +209,7 @@ EndSectio
   - Для Debian 9 => Debian 10: `stretch` на `buster`;
   - Для Debian 10 => Debian 11: `buster` на `bullseye`.
 
-  После изменений в файле выполнить оновление системы:
+  После изменений в файле выполнить обновление системы:
 
   ```sh
   sudo apt update
@@ -221,7 +221,7 @@ EndSectio
 - При выполнении скрипта `/usr/sbin/debian-install.sh` для переноса системы на EMMC выполняется перенос не той системы, которая установлена на SD-карте.
   Будет скопирован текущий образ ядра и установлена система, лежащая по пути `/opt/images/Debian/rootfs.tar.gz`.
 
-  Это изеачальный скомпелированный Debian 9.
+  Это изначальный скомпилированный Debian 9.
   Попытка подменить `rootfs.tar.gz` перед выполнением скрипта возможна, но потерпела неудачу - система после этого не стартовала.
 
 ### 6. Первичная настройка Debian 9 на [`var-som-mx6`](https://www.variscite.com/product/system-on-module-som/cortex-a9/var-som-mx6-cpu-freescale-imx6/)
